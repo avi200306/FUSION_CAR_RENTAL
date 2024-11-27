@@ -1,12 +1,15 @@
 
 
-
+# HOME-PAGE
 
 ![Screenshot 2024-11-28 014305](https://github.com/user-attachments/assets/b5c26f1f-4501-4d1b-aeea-2f0387f90b95)
+# FILTER
 
 ![Screenshot 2024-11-28 014437](https://github.com/user-attachments/assets/1d198376-a176-4c9d-a016-a1c4bd27f3f4)
-
+# DETAILS
 ![Screenshot 2024-11-28 014505](https://github.com/user-attachments/assets/287eab17-9540-4ce4-b9ec-9b1934d71ba3)
+
+# PAYTM
 ![Screenshot 2024-11-28 014533](https://github.com/user-attachments/assets/74a4afc0-68e6-4fd9-ab9d-7cbd0f0ab3ae)
 
 
